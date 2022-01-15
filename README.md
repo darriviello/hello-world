@@ -1,4 +1,4 @@
 # hello-world
 this is an example of using GItHub
 Hello World
-New-branch edit
+this is the new-branch edit
